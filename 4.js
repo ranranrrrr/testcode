@@ -8,7 +8,7 @@ let img;
 // preload() makes sure image is loaded before anything else occurs
 function preload() {
   // load the original image
-  img = loadImage("know.jpg");  
+  img = loadImage("nothingness.jpg");  
 }
 // setup() runs after preload, once()
 function setup() {
